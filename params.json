@@ -1,1 +1,7 @@
-{"name":"Parsehexstring","tagline":"DatatypeConverter.parseHexBinary in Javascript","body":"### parseHexString\r\nDatatypeConverter.parseHexBinary in Javascript\r\n\r\n### Motivation\r\nWhile duplicating code for my Javascript project from Java code, I came across a requirement which required me to duplicate of DatatypeConverter.parseHexBinary for Javascript.\r\n\r\nA lot of searching and using samples failed to match the Java output. Finally I had to open the Java code and replace it with Javascript code.\\\r\n\r\n### Usage\r\n```\r\nparseHexString(theString)\r\n```\r\n\r\n### Authors and Contributors\r\n@wenesay\r\n\r\n### Reach out\r\nhttps://github.com/wenesay","google":"UA-66415707-1","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Parsehexstring",
+  "tagline": "DatatypeConverter.parseHexBinary in Javascript",
+  "body": "### parseHexString\r\nDatatypeConverter.parseHexBinary in Javascript\r\n\r\n### Motivation\r\nWhile duplicating code for my Javascript project from Java code, I came across a requirement which required me to duplicate of DatatypeConverter.parseHexBinary for Javascript.\r\n\r\nA lot of searching and using samples failed to match the Java output. Finally I had to open the Java code and replace it with Javascript code.\\\r\n\r\n### Usage\r\n```\r\nparseHexString(theString)\r\n```\r\n\r\n### Authors and Contributors\r\n@wenesay\r\n\r\n### Reach out\r\nhttps://github.com/wenesay",
+  "google": "UA-66415707-1",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
